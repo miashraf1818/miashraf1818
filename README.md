@@ -34,21 +34,21 @@
   Self-taught developer who built intelligent backend systems before 20 — powered by curiosity, consistency, and AI 🚀  
 
 ---
+<h3 align="center">🌐 Connect With Me</h3>
 
-### 🧩 Connect With Me  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-ikram-ashrafi/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-ikram-ashrafi/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
-  <a href="mailto:ikramshariff2005@gmail.com" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" height="30" width="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ikramshariff2005@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="40" width="40" />
   </a>
-  <a href="https://mohammed-ikram-ashrafi.vercel.app" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/512317/web.svg" alt="Portfolio" height="30" width="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mohammed-ikram-ashrafi.vercel.app" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="40" width="40"/>
   </a>
 </p>
-
 ---
 
 ### ⚙️ Technical Skills  
@@ -82,22 +82,3 @@
 
 ---
 
-### 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miashraf1818&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miashraf1818&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=miashraf1818&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miashraf1818&label=Profile%20views&color=00A1F1&style=flat-square" alt="Profile Views" />
-</p>
