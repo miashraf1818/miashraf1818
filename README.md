@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Ikram%20Ashrafi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20GenAI%20%26%20RAG%20Engineer%20%7C%20Building%20EchoVault%20AI&descSize=16&descAlignY=60&animation=fadeIn" />
+<!-- Animated Banner — self-hosted SVG, always loads reliably -->
+<img width="100%" src="./banner.svg" alt="Mohammed Ikram Ashrafi — AI Systems Engineer | Backend Developer | EchoVault AI" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -185,5 +185,16 @@ class MohammedIkram:
 
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<!-- Footer Wave — inline SVG, no external dependency -->
+<svg width="100%" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#24243e"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,20 C150,55 300,5 450,30 C600,55 750,10 900,35 L900,80 L0,80 Z" fill="url(#footerGrad)"/>
+  <path d="M0,35 C200,65 400,15 600,40 C750,58 850,25 900,45 L900,80 L0,80 Z" fill="#7c3aed" opacity="0.25"/>
+</svg>
+
