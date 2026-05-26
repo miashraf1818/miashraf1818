@@ -125,14 +125,15 @@ class MohammedIkram:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miashraf1818&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miashraf1818&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&langs_count=8"/>
+<!-- Stats + Top Languages — using profile-summary-cards (more stable) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miashraf1818&theme=tokyonight" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miashraf1818&theme=tokyonight" height="180em"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miashraf1818&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+  <!-- Streak — demolab.com is the maintained fork, far more reliable than herokuapp -->
+  <img src="https://streak-stats.demolab.com/?user=miashraf1818&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 </div>
 
 <div align="center">
