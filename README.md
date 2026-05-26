@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Ikram%20Ashrafi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Backend%20Developer%20%7C%20Building%20EchoVault%20AI&descSize=16&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Ikram%20Ashrafi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Python%20Developer%20%7C%20Building%20EchoVault%20AI&descSize=16&descAlignY=60&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=⚡+AI+Systems+Engineer+%26+Backend+Architect;🧠+Building+EchoVault+AI+—+Memory+Intelligence;🔍+RAG+%7C+LangChain+%7C+Vector+Databases;🛡️+Privacy-First+GenAI+Infrastructure;🚀+FastAPI+%7C+PostgreSQL+%7C+Docker+%7C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=⚡+AI+Systems+Engineer+%26+Backend+Architect;🐍+Python+Developer+%7C+FastAPI+%7C+Django+%7C+Flask;🧠+Building+EchoVault+AI+—+Memory+Intelligence;🔍+RAG+%7C+LangChain+%7C+Vector+Databases;🛡️+Privacy-First+GenAI+Infrastructure;🚀+FastAPI+%7C+PostgreSQL+%7C+Docker+%7C+AWS" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammed-ikram-ashrafi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mohammed-ikram-ashrafi.in/)
 [![EchoVault AI](https://img.shields.io/badge/🧠_EchoVault_AI-7C3AED?style=for-the-badge&logoColor=white)](https://echovaultai.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ikram-ashrafi/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikramshariff2005@gmail.com)
@@ -32,7 +32,7 @@
 
 ```python
 class MohammedIkram:
-    role       = "AI Systems Engineer"
+    role       = "AI Systems Engineer & Python Developer"
     mission    = "Build privacy-first memory intelligence"
     currently  = "EchoVault AI 🧠"
     philosophy = "A companion, not a clone."
@@ -174,7 +174,7 @@ class MohammedIkram:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ikram-ashrafi/)
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammed-ikram-ashrafi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mohammed-ikram-ashrafi.in/)
 [![Email](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikramshariff2005@gmail.com)
 
 <br/>
