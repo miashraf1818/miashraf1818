@@ -1,171 +1,187 @@
-# Hi 👋, I'm Mohammed Ikram Ashrafi
+<div align="center">
 
-### AI Systems Engineer • Backend Developer • Building EchoVault AI
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Ikram%20Ashrafi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Backend%20Developer%20%7C%20Building%20EchoVault%20AI&descSize=16&descAlignY=60&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=⚡+Mohammed+Ikram+Ashrafi;AI+Systems+Engineer;Building+EchoVault+AI;Memory+Intelligence+%7C+RAG+Architectures;FastAPI+%7C+LangChain+%7C+Vector+Databases;Privacy-First+GenAI+Infrastructure;Backend+Systems+for+Scalable+AI">
-</p>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=⚡+AI+Systems+Engineer+%26+Backend+Architect;🧠+Building+EchoVault+AI+—+Memory+Intelligence;🔍+RAG+%7C+LangChain+%7C+Vector+Databases;🛡️+Privacy-First+GenAI+Infrastructure;🚀+FastAPI+%7C+PostgreSQL+%7C+Docker+%7C+AWS" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🧠 About Me
+<!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammed-ikram-ashrafi.vercel.app)
+[![EchoVault AI](https://img.shields.io/badge/🧠_EchoVault_AI-7C3AED?style=for-the-badge&logoColor=white)](https://echovaultai.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ikram-ashrafi/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikramshariff2005@gmail.com)
 
-I'm a self-taught developer focused on building scalable AI systems, backend architectures, and privacy-first memory intelligence platforms.
+<br/>
 
-Currently building:
+<!-- Profile Views + Followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=miashraf1818&label=Profile+Views&color=7C3AED&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/miashraf1818?label=Followers&style=flat-square&color=7C3AED)](https://github.com/miashraf1818)
 
-### 🚀 EchoVault AI  
-An ethical memory intelligence system that transforms conversations, journals, and voice notes into searchable emotional memory retrieval systems.
-
-> “A companion, not a clone.”
-
-### Core Focus Areas
-- Retrieval-Augmented Generation (RAG)
-- Semantic Memory Systems
-- Emotional Context Retrieval
-- FastAPI Backend Architectures
-- Vector Search Infrastructure
-- AI System Scalability
+</div>
 
 ---
 
-## 🔭 Currently Working On
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
-### 🧠 EchoVault AI
-Building a privacy-first AI memory platform with:
-- Semantic memory retrieval
-- Emotional timeline analysis
-- AI reflection systems
-- Voice + journal ingestion
-- Secure encrypted vault architecture
+## 🧠 Who Am I?
 
-### ⚙️ Tech Stack
-- FastAPI
-- LangChain
-- PostgreSQL
-- Pinecone / Vector DB
-- Docker
-- React
-- JWT Authentication
-- AWS Infrastructure
-- Async Python
+```python
+class MohammedIkram:
+    role       = "AI Systems Engineer"
+    mission    = "Build privacy-first memory intelligence"
+    currently  = "EchoVault AI 🧠"
+    philosophy = "A companion, not a clone."
 
----
+    skills = {
+        "AI/ML"    : ["RAG", "LangChain", "Vector DBs", "Llama"],
+        "Backend"  : ["FastAPI", "Django", "Flask", "Async Python"],
+        "Cloud"    : ["AWS EC2", "Docker", "Nginx", "GitHub Actions"],
+        "Databases": ["PostgreSQL", "MongoDB", "Pinecone"],
+        "Frontend" : ["React", "Tailwind CSS"],
+    }
 
-## 🌱 Currently Learning
+    def current_focus(self):
+        return "Emotional Memory Retrieval Systems 🔮"
+```
 
-- Advanced RAG optimization
-- AI infrastructure engineering
-- Distributed backend systems
-- AWS cloud architecture
-- High-performance async Python
+<br clear="right"/>
 
 ---
 
-## 💬 Ask Me About
+## 🚀 Flagship Project — EchoVault AI
 
-- FastAPI
-- Python backend systems
-- RAG pipelines
-- LangChain
-- Vector databases
-- REST API architecture
-- Authentication systems
-- AI infrastructure
-- Semantic search systems
+<div align="center">
 
----
+```
+╔══════════════════════════════════════════════════════════╗
+║           🧠  E C H O V A U L T   A I                   ║
+║   Privacy-First Emotional Memory Intelligence System     ║
+╠══════════════════════════════════════════════════════════╣
+║  📖 Converts conversations → searchable memory          ║
+║  🎙️ Voice + journal ingestion pipeline                  ║
+║  🔍 Semantic & emotional context retrieval              ║
+║  🔐 Secure encrypted vault architecture                 ║
+║  📈 AI reflection & timeline analysis engine            ║
+╠══════════════════════════════════════════════════════════╣
+║        > "A companion, not a clone."                    ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-## ⚡ What I Build
+[![EchoVault](https://img.shields.io/badge/🌐_Visit_EchoVault_AI-7C3AED?style=for-the-badge)](https://echovaultai.me)
 
-- AI-powered backend systems
-- Retrieval architectures
-- Semantic search platforms
-- Secure API infrastructures
-- Emotional intelligence systems
-- AI memory pipelines
-- Cloud-deployed scalable applications
-
----
-
-## 🌐 Portfolio & Links
-
-- 🌍 Portfolio:  
-  https://mohammed-ikram-ashrafi.vercel.app
-
-- 🧠 EchoVault AI:  
-  https://echovaultai.me
-
-- 💼 LinkedIn:  
-  https://www.linkedin.com/in/mohammed-ikram-ashrafi/
-
-- 📧 Email:  
-  ikramshariff2005@gmail.com
+</div>
 
 ---
 
-## ⚙️ Technical Skills
+## ⚙️ Tech Arsenal
 
-### 🐍 Backend Engineering
-- Python
-- FastAPI
-- Django REST Framework
-- Flask
-- Async APIs
-- JWT Authentication
-- OAuth 2.0
-- Middleware Architecture
-- REST API Design
+<div align="center">
 
-### 🧠 AI / GenAI
-- LangChain
-- RAG Architectures
-- Pinecone
-- Vector Databases
-- Llama Models
-- Prompt Engineering
-- Context Retrieval
-- AI Memory Systems
-- Semantic Search
+### 🐍 Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
-### ☁️ Cloud & Infrastructure
-- Docker
-- AWS EC2
-- Vercel
-- Render
-- Nginx
-- CI/CD Pipelines
-- Linux Server Management
-- GitHub Actions
+### 🧠 AI / GenAI Stack
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-7289DA?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🗄️ Databases
-- PostgreSQL
-- MongoDB
-- MySQL
-- SQLite
-- Vector Storage Systems
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🎨 Frontend Integration
-- React JS
-- Tailwind CSS
-- API Integration
-- Dashboard Systems
-- Responsive UI
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
 
 ---
 
-## 🚀 Philosophy
+## 📊 GitHub Stats
 
-I’m interested in building AI systems that augment human memory and understanding — not replace human identity.
+<div align="center">
 
-Focused on:
-- Ethical AI
-- Privacy-first systems
-- Long-term scalable infrastructure
-- Human-centered intelligence
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miashraf1818&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miashraf1818&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&langs_count=8"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miashraf1818&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miashraf1818&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true" />
+</div>
 
 ---
 
-## 📈 Current Mission
+## 🌱 Currently Leveling Up
 
-Building the future of ethical memory retrieval systems through AI infrastructure and emotional intelligence architecture.
+<div align="center">
+
+| 🎯 Area | 📈 Progress |
+|---|---|
+| Advanced RAG Optimization | `████████░░` 80% |
+| AI Infrastructure Engineering | `███████░░░` 70% |
+| Distributed Backend Systems | `██████░░░░` 60% |
+| AWS Cloud Architecture | `█████░░░░░` 50% |
+| High-Performance Async Python | `████████░░` 80% |
+
+</div>
+
+---
+
+## 💡 Philosophy
+
+<div align="center">
+
+> *"I'm interested in building AI systems that **augment human memory and understanding** — not replace human identity."*
+
+| 🛡️ Ethical AI | 🔒 Privacy-First | 📐 Scalable Infra | 🫂 Human-Centered |
+|:---:|:---:|:---:|:---:|
+| Building responsibly | Zero surveillance | Long-term architecture | AI for humans |
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ikram-ashrafi/)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammed-ikram-ashrafi.vercel.app)
+[![Email](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikramshariff2005@gmail.com)
+
+<br/>
+
+*"Building the future of ethical memory retrieval systems — one commit at a time."* 🚀
+
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
