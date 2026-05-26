@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Ikram%20Ashrafi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20GenAI%20%26%20RAG%20Engineer%20%7C%20Building%20EchoVault%20AI&descSize=16&descAlignY=60&animation=fadeIn" />
+<!-- Static Banner — committed to repo for 100% reliable loading -->
+<img width="100%" src="./banner.svg" alt="Mohammed Ikram Ashrafi — Python Full Stack Developer | GenAI & RAG Engineer" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
