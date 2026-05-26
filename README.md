@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=⚡+AI+Systems+Engineer+%26+Backend+Architect;🐍+Python+Developer+%7C+FastAPI+%7C+Django+%7C+Flask;🧠+Building+EchoVault+AI+—+Memory+Intelligence;🔍+RAG+%7C+LangChain+%7C+Vector+Databases;🛡️+Privacy-First+GenAI+Infrastructure;🚀+FastAPI+%7C+PostgreSQL+%7C+Docker+%7C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=%E2%9A%A1+AI+Systems+Engineer+%26+Backend+Architect;%F0%9F%90%8D+Python+Developer+%7C+FastAPI+%7C+Django+%7C+Flask;%F0%9F%A7%A0+Building+EchoVault+AI+%E2%80%94+Memory+Intelligence;%F0%9F%94%8D+RAG+%7C+LangChain+%7C+Vector+Databases;%F0%9F%9B%A1+Privacy-First+GenAI+Infrastructure;%F0%9F%9A%80+FastAPI+%7C+PostgreSQL+%7C+Docker+%7C+AWS" alt="Typing SVG" />
 </a>
 
 <br/>
