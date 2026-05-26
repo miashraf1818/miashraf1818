@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Ikram%20Ashrafi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Python%20Developer%20%7C%20Building%20EchoVault%20AI&descSize=16&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Ikram%20Ashrafi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20GenAI%20%26%20RAG%20Engineer%20%7C%20Building%20EchoVault%20AI&descSize=16&descAlignY=60&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=%E2%9A%A1+AI+Systems+Engineer+%26+Backend+Architect;%F0%9F%90%8D+Python+Developer+%7C+FastAPI+%7C+Django+%7C+Flask;%F0%9F%A7%A0+Building+EchoVault+AI+%E2%80%94+Memory+Intelligence;%F0%9F%94%8D+RAG+%7C+LangChain+%7C+Vector+Databases;%F0%9F%9B%A1+Privacy-First+GenAI+Infrastructure;%F0%9F%9A%80+FastAPI+%7C+PostgreSQL+%7C+Docker+%7C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&lines=%F0%9F%90%8D+Python+Full+Stack+Developer;%F0%9F%A4%96+GenAI+%26+RAG+Engineer+%7C+LangChain+%7C+LLMs;%F0%9F%94%8D+Vector+DBs+%7C+Pinecone+%7C+Semantic+Search;%E2%9A%A1+FastAPI+%7C+Django+%7C+REST+APIs+%7C+Async+Python;%F0%9F%9B%A1+Building+EchoVault+AI+%E2%80%94+Memory+Intelligence;%F0%9F%9A%80+PostgreSQL+%7C+Docker+%7C+AWS+%7C+Cloud+Deploy" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,7 +32,8 @@
 
 ```python
 class MohammedIkram:
-    role       = "AI Systems Engineer & Python Developer"
+    role       = "Python Full Stack Developer & GenAI Engineer"
+    stack      = "Python · FastAPI · Django · LangChain · RAG"
     mission    = "Build privacy-first memory intelligence"
     currently  = "EchoVault AI 🧠"
     philosophy = "A companion, not a clone."
