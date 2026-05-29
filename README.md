@@ -58,26 +58,73 @@ class MohammedIkram:
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║           🧠  E C H O V A U L T   A I                   ║
-║   Privacy-First Emotional Memory Intelligence System     ║
-╠══════════════════════════════════════════════════════════╣
-║  📖 Converts conversations → searchable memory          ║
-║  🎙️ Voice + journal ingestion pipeline                  ║
-║  🔍 Semantic & emotional context retrieval              ║
-║  🔐 Secure encrypted vault architecture                 ║
-║  📈 AI reflection & timeline analysis engine            ║
-╠══════════════════════════════════════════════════════════╣
-║        > "A companion, not a clone."                    ║
-╚══════════════════════════════════════════════════════════╝
-```
+<a href="https://echovaultai.me" target="_blank">
+  <img width="80%" src="https://og-image.vercel.app/**EchoVault%20AI**%20%F0%9F%A7%A0%0APrivacy-First%20Emotional%20Memory%20Intelligence.png?theme=dark&md=1&fontSize=60px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-white.svg" alt="EchoVault AI — Live Demo" onerror="this.style.display='none'"/>
+</a>
 
-[![EchoVault](https://img.shields.io/badge/🌐_Visit_EchoVault_AI-7C3AED?style=for-the-badge)](https://echovaultai.me)
+> *"Preserving memories through ethical AI."*
+
+[![🌐 Live Site](https://img.shields.io/badge/🌐_Live_Site-echovaultai.me-7C3AED?style=for-the-badge)](https://echovaultai.me)
+[![🧪 Try Demo](https://img.shields.io/badge/🧪_Try_Demo-Live_RAG_Pipeline-059669?style=for-the-badge)](https://echovaultai.me/demo)
+[![📊 Dashboard](https://img.shields.io/badge/📊_Dashboard-Enter_Vault-0284C7?style=for-the-badge)](https://echovaultai.me/dashboard)
+[![📋 Waitlist](https://img.shields.io/badge/📋_Join_Waitlist-Early_Access-F59E0B?style=for-the-badge)](https://echovaultai.me/waitlist)
 
 </div>
 
+### 🧠 What It Does
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║              🧠  E C H O V A U L T   A I                            ║
+║       Privacy-First Emotional Memory Intelligence System             ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  📖 Ingests  →  WhatsApp exports, journals, voice notes             ║
+║  🔍 Retrieves →  Semantic + emotional + temporal RAG                ║
+║  🔐 Stores   →  AES-256 encrypted, per-user Qdrant namespace        ║
+║  📈 Reflects →  Grounded cited responses — no fabrication           ║
+║  🗑️ Deletes  →  One click. Permanent. You own 100% of your data     ║
+╠══════════════════════════════════════════════════════════════════════╣
+║              > "A companion, not a clone."                           ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+### ⚡ RAG Pipeline
+
+<div align="center">
+
+`User` → `Upload` → `Embeddings` → `Vector DB (Qdrant)` → `Retrieval` → `LLM (LLaMA-3 / Groq)` → `Grounded Response`
+
+</div>
+
+### 🔧 Tech Stack Used
+
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![LLaMA3](https://img.shields.io/badge/LLaMA--3-7289DA?style=flat-square&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+### 🎯 MVP Capabilities
+
+| Feature | Description |
+|---|---|
+| 💬 **WhatsApp Chat Import** | Drop `.txt` exports — temporal chunking handles years of context |
+| 📈 **Emotional Timeline** | Visualize emotional patterns across years of conversations |
+| 🔍 **AI Memory Search** | Vector search with emotional, temporal & metadata re-ranking |
+| 🔐 **Secure Vault** | Per-user namespace isolation in Qdrant + RLS in Postgres |
+| ✨ **Contextual Reflection** | Grounded analytical responses citing real memory fragments |
+| 📊 **Memory Analytics** | Emotion, topic, speaker, and continuity metrics over time |
+
 ---
+
 
 ## ⚙️ Tech Arsenal
 
